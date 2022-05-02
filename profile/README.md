@@ -2,6 +2,5 @@
 
 We're looking for great engineers to join us.
 
-Learn more: https://github.com/readiness-engineering/jobs
-
+Learn more: https://github.com/launch-science/jobs
 🚀
